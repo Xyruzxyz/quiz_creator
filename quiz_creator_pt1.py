@@ -14,5 +14,23 @@ while True:
     input_answer_c = input("Please enter answer c: ")
     input_answer_d = input("Please enter answer d: ")
     input_correct_answer = input("Please enter the correct answer (a, b, c or d): ")
+    #Need to store the questions and answers
+    question_data = {
+        'question': input_question,
+        'answer_a': input_answer_a,
+        'answer_b': input_answer_b,
+        'answer_c': input_answer_c,
+        'answer_d': input_answer_d,
+        'correct_answer': input_correct_answer
+    }
+    #open stored data
+    with open('quiz_questions.txt', 'a') as file:
+        
+
+        
+    
+    
+
+
     
 
