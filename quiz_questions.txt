@@ -1,0 +1,14 @@
+Q: Magnanakaw ba si Marcos?
+a) Yes
+b) No
+c) Maybe
+d) No comment
+Correct Answer: a
+
+Q: Tomboy ba si Sara?
+a) Yes
+b) No
+c) Maybe
+d) No comment
+Correct Answer: a
+

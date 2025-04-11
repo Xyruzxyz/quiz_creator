@@ -4,7 +4,7 @@
 
     #Ask user for input
     #loop is needed to ask for multiple questions
-    while True:
+while True:
         #ask user for question and answers
         input_question = input("Please enter your question (or type 'exit' to quit): ")
         if input_question.lower() == 'exit':
@@ -31,6 +31,9 @@
             file.write(f"c) {question_data['answer_c']}\n")
             file.write(f"d) {question_data['answer_d']}\n")
             file.write(f"Correct Answer: {question_data['correct_answer']}\n\n")
+            
+        
+
 
             
         
