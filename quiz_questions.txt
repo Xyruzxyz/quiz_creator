@@ -12,3 +12,31 @@ c) Maybe
 d) No comment
 Correct Answer: a
 
+Q: Bababa ba ang presyo ng bigas sa 20
+a) Yes
+b) No
+c) Maybe
+d) No comment
+Correct Answer: a
+
+Q: Mananalo ba si bong revilla sa senado ulit?
+a) Yes
+b) No
+c) Maybe
+d) Probably not
+Correct Answer: D
+
+Q: mananalo ba ulit si bong revilla sa senado?
+a) Yes
+b) NO
+c) MAYBE
+d) MAYBE NOT
+Correct Answer: D
+
+Q: MAGIGING BENTE BA ANG BIGAS?
+a) YES
+b) NO
+c) MAYBE
+d) MAYBE NOT
+Correct Answer: B
+

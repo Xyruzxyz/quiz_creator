@@ -8,6 +8,7 @@ while True:
         #ask user for question and answers
         input_question = input("Please enter your question (or type 'exit' to quit): ")
         if input_question.lower() == 'exit':
+            print("Question and answers saved to quiz_questions.txt")
             break
         input_answer_a = input("Please enter answer a: ")
         input_answer_b = input("Please enter answer b: ")
@@ -31,7 +32,9 @@ while True:
             file.write(f"c) {question_data['answer_c']}\n")
             file.write(f"d) {question_data['answer_d']}\n")
             file.write(f"Correct Answer: {question_data['correct_answer']}\n\n")
-            
+        
+        
+
         
 
 
